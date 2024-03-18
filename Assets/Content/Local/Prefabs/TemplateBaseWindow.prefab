@@ -475,11 +475,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8620582721086005035, guid: ad1efaa6d30f47a41befd5a0a4950b99, type: 3}
       propertyPath: m_text
-      value: Main Menu
+      value: Text
       objectReference: {fileID: 0}
     - target: {fileID: 8620582721086005035, guid: ad1efaa6d30f47a41befd5a0a4950b99, type: 3}
       propertyPath: m_fontSize
-      value: 72.7
+      value: 89.5
       objectReference: {fileID: 0}
     - target: {fileID: 8620582721086005035, guid: ad1efaa6d30f47a41befd5a0a4950b99, type: 3}
       propertyPath: m_fontColor.b
@@ -596,11 +596,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3261944813426275085, guid: 6a7850c68df49e9419f62df0a9ffc170, type: 3}
       propertyPath: m_text
-      value: Call Load Panel
+      value: 'Ok
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 3261944813426275085, guid: 6a7850c68df49e9419f62df0a9ffc170, type: 3}
       propertyPath: m_fontSize
-      value: 29.8
+      value: 62.65
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6a7850c68df49e9419f62df0a9ffc170, type: 3}

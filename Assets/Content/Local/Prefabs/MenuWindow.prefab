@@ -103,6 +103,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4303446047476489137, guid: 7c09528b4db6bb54e82466ff0e06de74, type: 3}
+      propertyPath: m_text
+      value: Main Menu
+      objectReference: {fileID: 0}
+    - target: {fileID: 4303446047476489137, guid: 7c09528b4db6bb54e82466ff0e06de74, type: 3}
+      propertyPath: m_fontSize
+      value: 72.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7016149348107863266, guid: 7c09528b4db6bb54e82466ff0e06de74, type: 3}
+      propertyPath: m_text
+      value: Call Load Panel
+      objectReference: {fileID: 0}
     - target: {fileID: 7016149348107863266, guid: 7c09528b4db6bb54e82466ff0e06de74, type: 3}
       propertyPath: m_fontSize
       value: 54.65
@@ -143,4 +155,3 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentBaseWindow: {fileID: 1028391522583183664}
   nameAssetFull: Assets/Content/Local/Prefabs/GamesContentWindow.prefab
-  currObj: {fileID: 0}
