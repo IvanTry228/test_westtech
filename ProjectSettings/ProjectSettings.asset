@@ -157,6 +157,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.DefaultCompany.test_westtech
     Standalone: com.DefaultCompany.test-westtech
   buildNumber:
     Standalone: 0
